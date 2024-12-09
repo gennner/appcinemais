@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FD0D5BEC-17DE-4B1C-9CE7-8B94E82AB1BC"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "711509E0-ACF0-48BD-BB56-5CACF53DB7D2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProjetoFilmes/Controller/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1"
+            endingLineNumber = "1"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D88E8241-9130-4E6D-9F87-E5DED4441611"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProjetoFilmes/Model/FilmesTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1"
+            endingLineNumber = "1"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "D88E8241-9130-4E6D-9F87-E5DED4441611 - ca4f90f2d08e3ff1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProjetoFilmes.FilmesTableViewCell.__allocating_init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; ProjetoFilmes.FilmesTableViewCell"
+                  moduleName = "ProjetoFilmes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/genner/Developer/IOS/ProjetoFilmes/ProjetoFilmes/Model/FilmesTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "D88E8241-9130-4E6D-9F87-E5DED4441611 - aa7ac5f6edabd207"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProjetoFilmes.FilmesTableViewCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; ProjetoFilmes.FilmesTableViewCell"
+                  moduleName = "ProjetoFilmes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/genner/Developer/IOS/ProjetoFilmes/ProjetoFilmes/Model/FilmesTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "4"
+                  endingLineNumber = "4">
+               </Location>
+               <Location
+                  uuid = "D88E8241-9130-4E6D-9F87-E5DED4441611 - 2c3af066e2b1f56f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProjetoFilmes.FilmesTableViewCell.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ProjetoFilmes.FilmesTableViewCell&gt;"
+                  moduleName = "ProjetoFilmes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/genner/Developer/IOS/ProjetoFilmes/ProjetoFilmes/Model/FilmesTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "D88E8241-9130-4E6D-9F87-E5DED4441611 - 25fb3b4984ebf3f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProjetoFilmes.FilmesTableViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ProjetoFilmes.FilmesTableViewCell&gt;"
+                  moduleName = "ProjetoFilmes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/genner/Developer/IOS/ProjetoFilmes/ProjetoFilmes/Model/FilmesTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "4"
+                  endingLineNumber = "4">
+               </Location>
+               <Location
+                  uuid = "D88E8241-9130-4E6D-9F87-E5DED4441611 - e7629e48b46d844f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProjetoFilmes.FilmesTableViewCell.__deallocating_deinit"
+                  moduleName = "ProjetoFilmes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/genner/Developer/IOS/ProjetoFilmes/ProjetoFilmes/Model/FilmesTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
